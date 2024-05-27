@@ -1,0 +1,10 @@
+
+
+
+[server]
+headless = false
+
+
+
+[menu]
+deploy = false
